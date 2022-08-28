@@ -1,0 +1,7 @@
+{
+  "name": "manguinho-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Marques Frahm <gabriel_frahm@hotmail.com>",
+  "license": "MIT"
+}
